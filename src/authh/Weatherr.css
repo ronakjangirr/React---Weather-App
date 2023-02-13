@@ -1,0 +1,30 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url("D:\React\crud1\public\Images\cloud.jpg");
+    background-size: cover;
+}
+
+.font-style{
+    font-family: 'Times New Roman', serif;
+}
+
+.div-style{
+    display: flex;
+    justify-content:space-around;
+    margin: 10px;
+}
+
+.div-style2{
+    width: 400px; 
+    margin:auto;
+}
+
+.div-style3{
+    display: flex;
+    justify-content:space-around;
+}
+
+.font-style2{
+    font-size: 20px;
+}
